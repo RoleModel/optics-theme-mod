@@ -1,0 +1,9 @@
+{
+  "name": "optics-theme",
+  "version": "0.1.0",
+  "description": "Build an Optics colour theme in OKLCH or HSL, check every text pair's contrast, and copy the CSS or Figma tokens.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Dallas Peters"
+  }
+}

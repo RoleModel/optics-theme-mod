@@ -1,0 +1,5 @@
+{
+  "name": "rolemodel-optics",
+  "owner": { "name": "RoleModel Software" },
+  "plugins": [{ "name": "optics-theme", "source": "./" }]
+}
